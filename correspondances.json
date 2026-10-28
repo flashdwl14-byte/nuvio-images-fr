@@ -1,0 +1,772 @@
+[
+  {
+    "categorie": "Découvrir",
+    "dossier": "Nouveaux Films",
+    "id_dossier": "folder-9D1C5A0D",
+    "fichier_source": "DECOUVRIR/nouveaux films .png",
+    "fichier_github": "covers/folder-9D1C5A0D.png",
+    "ancienne_url": "https://art.kaptain.stream/discover/new-movies/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 1993589
+  },
+  {
+    "categorie": "Découvrir",
+    "dossier": "Meilleures Séries",
+    "id_dossier": "folder-XUX2DKEX",
+    "fichier_source": "DECOUVRIR/meilleurs series.png",
+    "fichier_github": "covers/folder-XUX2DKEX.png",
+    "ancienne_url": "https://art.kaptain.stream/discover/top-streaming-series/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 1991572
+  },
+  {
+    "categorie": "Découvrir",
+    "dossier": "Séries Tendances",
+    "id_dossier": "folder-4a9b21f7",
+    "fichier_source": "DECOUVRIR/serie tendance .png",
+    "fichier_github": "covers/folder-4a9b21f7.png",
+    "ancienne_url": "https://art.kaptain.stream/discover/trending-tv/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 2252767
+  },
+  {
+    "categorie": "Découvrir",
+    "dossier": "Meilleurs Films",
+    "id_dossier": "folder-IHPHVHSB",
+    "fichier_source": "DECOUVRIR/meilleurs films.png",
+    "fichier_github": "covers/folder-IHPHVHSB.png",
+    "ancienne_url": "https://art.kaptain.stream/discover/top-streaming-movies/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 2196746
+  },
+  {
+    "categorie": "Découvrir",
+    "dossier": "Nouvelles Séries",
+    "id_dossier": "folder-F5BC0453",
+    "fichier_source": "DECOUVRIR/nouvelle serie .png",
+    "fichier_github": "covers/folder-F5BC0453.png",
+    "ancienne_url": "https://art.kaptain.stream/discover/new-series/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 2060876
+  },
+  {
+    "categorie": "Découvrir",
+    "dossier": "Films Tendances",
+    "id_dossier": "folder-c2fa6b78",
+    "fichier_source": "DECOUVRIR/film tendance .png",
+    "fichier_github": "covers/folder-c2fa6b78.png",
+    "ancienne_url": "https://art.kaptain.stream/discover/trending-movies/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 1619471
+  },
+  {
+    "categorie": "Animés",
+    "dossier": "Studios à l’Honneur",
+    "id_dossier": "folder-9RP4Z63N",
+    "fichier_source": "ANIME/studio.png",
+    "fichier_github": "covers/folder-9RP4Z63N.png",
+    "ancienne_url": "https://art.kaptain.stream/anime/studio-spotlight/classic/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 1705076
+  },
+  {
+    "categorie": "Animés",
+    "dossier": "Animés de Sport et de Compétition",
+    "id_dossier": "folder-CDMZH7S0",
+    "fichier_source": "ANIME/Sport.png",
+    "fichier_github": "covers/folder-CDMZH7S0.png",
+    "ancienne_url": "https://art.kaptain.stream/anime/sports-and-competition-anime/classic/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 2032341
+  },
+  {
+    "categorie": "Animés",
+    "dossier": "Tranches de Vie et Romance",
+    "id_dossier": "folder-FML2DNZO",
+    "fichier_source": "ANIME/romance.png",
+    "fichier_github": "covers/folder-FML2DNZO.png",
+    "ancienne_url": "https://art.kaptain.stream/anime/slice-of-life-and-romance/classic/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 2308028
+  },
+  {
+    "categorie": "Animés",
+    "dossier": "Animés Shōnen et d’Action",
+    "id_dossier": "folder-QCEU9Z9A",
+    "fichier_source": "ANIME/shonen.png",
+    "fichier_github": "covers/folder-QCEU9Z9A.png",
+    "ancienne_url": "https://art.kaptain.stream/anime/shonen-and-action-anime/classic/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 2201780
+  },
+  {
+    "categorie": "Animés",
+    "dossier": "Sagas Isekai et Fantastiques",
+    "id_dossier": "folder-JQ8I3SCI",
+    "fichier_source": "ANIME/isenkei.png",
+    "fichier_github": "covers/folder-JQ8I3SCI.png",
+    "ancienne_url": "https://art.kaptain.stream/anime/isekai-and-fantasy-sagas/classic/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 2172464
+  },
+  {
+    "categorie": "Animés",
+    "dossier": "Découvrir les Animés",
+    "id_dossier": "folder-08IC2WBN",
+    "fichier_source": "ANIME/DECOUVRIR.png",
+    "fichier_github": "covers/folder-08IC2WBN.png",
+    "ancienne_url": "https://art.kaptain.stream/anime/discover-anime/classic/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 2436734
+  },
+  {
+    "categorie": "Documentaires",
+    "dossier": "Sport et Parcours d’Athlètes",
+    "id_dossier": "folder-GLXQEJD5",
+    "fichier_source": "DOCUMENTAIRES/RECIT SPORTIF.png",
+    "fichier_github": "covers/folder-GLXQEJD5.png",
+    "ancienne_url": "https://art.kaptain.stream/documentaries/sports-and-athletic-stories/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 3167954
+  },
+  {
+    "categorie": "Documentaires",
+    "dossier": "Nature, Vie Sauvage et Planète",
+    "id_dossier": "folder-KQU791FW",
+    "fichier_source": "DOCUMENTAIRES/nature et vie sauvage .png",
+    "fichier_github": "covers/folder-KQU791FW.png",
+    "ancienne_url": "https://art.kaptain.stream/documentaries/nature-wildlife-and-earth/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 2555546
+  },
+  {
+    "categorie": "Documentaires",
+    "dossier": "Affaires Criminelles et Tueurs en Série",
+    "id_dossier": "folder-3EO6D18E",
+    "fichier_source": "DOCUMENTAIRES/FAITS DIVERS .png",
+    "fichier_github": "covers/folder-3EO6D18E.png",
+    "ancienne_url": "https://art.kaptain.stream/documentaries/true-crime-and-serial-killers/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 2422158
+  },
+  {
+    "categorie": "Documentaires",
+    "dossier": "Enquêtes et Scandales",
+    "id_dossier": "folder-VO70XOOU",
+    "fichier_source": "DOCUMENTAIRES/ENQUETES.png",
+    "fichier_github": "covers/folder-VO70XOOU.png",
+    "ancienne_url": "https://art.kaptain.stream/documentaries/investigative-and-scandals/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 1807864
+  },
+  {
+    "categorie": "Documentaires",
+    "dossier": "Documentaires Musicaux et Concerts",
+    "id_dossier": "folder-E7NOL7FT",
+    "fichier_source": "DOCUMENTAIRES/MUSIQUE ET CONCERT .png",
+    "fichier_github": "covers/folder-E7NOL7FT.png",
+    "ancienne_url": "https://art.kaptain.stream/documentaries/music-and-concert-documentaries/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 1872096
+  },
+  {
+    "categorie": "Documentaires",
+    "dossier": "Histoire, Guerres et Civilisations",
+    "id_dossier": "folder-0WSZMM2X",
+    "fichier_source": "DOCUMENTAIRES/HISTOIRE ET CIVILISATION.png",
+    "fichier_github": "covers/folder-0WSZMM2X.png",
+    "ancienne_url": "https://art.kaptain.stream/documentaries/history-war-and-civilizations/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 2457168
+  },
+  {
+    "categorie": "Documentaires",
+    "dossier": "Sciences, Technologies et Cosmos",
+    "id_dossier": "folder-H9YXHQC8",
+    "fichier_source": "DOCUMENTAIRES/science et espace .png",
+    "fichier_github": "covers/folder-H9YXHQC8.png",
+    "ancienne_url": "https://art.kaptain.stream/documentaries/science-tech-and-cosmos/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 2255957
+  },
+  {
+    "categorie": "Adaptations",
+    "dossier": "Jeux Vidéo",
+    "id_dossier": "folder-BSGAME01",
+    "fichier_source": "BASE SUR/jeux-video-fr.jpg",
+    "fichier_github": "covers/folder-BSGAME01.jpg",
+    "ancienne_url": "https://art.kaptain.stream/based-on/video-games/kaptain/cover.jpg",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 1067181
+  },
+  {
+    "categorie": "Adaptations",
+    "dossier": "Mythologie",
+    "id_dossier": "folder-BSMYTH01",
+    "fichier_source": "BASE SUR/mythologie-fr.jpg",
+    "fichier_github": "covers/folder-BSMYTH01.jpg",
+    "ancienne_url": "https://art.kaptain.stream/based-on/mythology/kaptain/cover.jpg",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 594796
+  },
+  {
+    "categorie": "Adaptations",
+    "dossier": "Bandes Dessinées",
+    "id_dossier": "folder-BSCOMIC1",
+    "fichier_source": "BASE SUR/comics.jpg",
+    "fichier_github": "covers/folder-BSCOMIC1.jpg",
+    "ancienne_url": "https://art.kaptain.stream/based-on/comics/kaptain/cover.jpg",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 512766
+  },
+  {
+    "categorie": "Adaptations",
+    "dossier": "Histoires Vraies",
+    "id_dossier": "folder-BSTRUE01",
+    "fichier_source": "BASE SUR/histoires-vraies-fr-corrige.jpg",
+    "fichier_github": "covers/folder-BSTRUE01.jpg",
+    "ancienne_url": "https://art.kaptain.stream/based-on/true-story/kaptain/cover.jpg",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 958410
+  },
+  {
+    "categorie": "Adaptations",
+    "dossier": "Jouets",
+    "id_dossier": "folder-BSTOY001",
+    "fichier_source": "BASE SUR/jouets-fr.jpg",
+    "fichier_github": "covers/folder-BSTOY001.jpg",
+    "ancienne_url": "https://art.kaptain.stream/based-on/toy/kaptain/cover.jpg",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 676669
+  },
+  {
+    "categorie": "Adaptations",
+    "dossier": "Pièces de Théâtre",
+    "id_dossier": "folder-BSPLAY01",
+    "fichier_source": "BASE SUR/pieces-de-theatre-fr.jpg",
+    "fichier_github": "covers/folder-BSPLAY01.jpg",
+    "ancienne_url": "https://art.kaptain.stream/based-on/play/kaptain/cover.jpg",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 639596
+  },
+  {
+    "categorie": "Adaptations",
+    "dossier": "Nouvelles Littéraires",
+    "id_dossier": "folder-BSSHORT1",
+    "fichier_source": "BASE SUR/courts-metrages-fr.jpg",
+    "fichier_github": "covers/folder-BSSHORT1.jpg",
+    "ancienne_url": "https://art.kaptain.stream/based-on/short-story/kaptain/cover.jpg",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 618666
+  },
+  {
+    "categorie": "Adaptations",
+    "dossier": "Livres",
+    "id_dossier": "folder-BSBOOK01",
+    "fichier_source": "BASE SUR/livres.png",
+    "fichier_github": "covers/folder-BSBOOK01.png",
+    "ancienne_url": "https://art.kaptain.stream/based-on/books/kaptain/cover.jpg",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 2154664
+  },
+  {
+    "categorie": "Adaptations",
+    "dossier": "Séries Télévisées",
+    "id_dossier": "folder-BSTVSH01",
+    "fichier_source": "BASE SUR/series-tv-fr.jpg",
+    "fichier_github": "covers/folder-BSTVSH01.jpg",
+    "ancienne_url": "https://art.kaptain.stream/based-on/tv-show/kaptain/cover.jpg",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 576823
+  },
+  {
+    "categorie": "Adaptations",
+    "dossier": "Contes de Fées",
+    "id_dossier": "folder-BSFAIRY1",
+    "fichier_source": "BASE SUR/contes-de-fees-fr.jpg",
+    "fichier_github": "covers/folder-BSFAIRY1.jpg",
+    "ancienne_url": "https://art.kaptain.stream/based-on/fairy-tale/kaptain/cover.jpg",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 677362
+  },
+  {
+    "categorie": "Sagas et Collections de Films",
+    "dossier": "Collections Drama",
+    "id_dossier": "folder-283B7C4F",
+    "fichier_source": "COLLECTION/DRAME_FR.jpg",
+    "fichier_github": "covers/folder-283B7C4F.jpg",
+    "ancienne_url": "https://art.kaptain.stream/film-collections/drama/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 1164392
+  },
+  {
+    "categorie": "Sagas et Collections de Films",
+    "dossier": "Collections Mystery",
+    "id_dossier": "folder-C2A6842E",
+    "fichier_source": "COLLECTION/MYSTERE_FR.jpg",
+    "fichier_github": "covers/folder-C2A6842E.jpg",
+    "ancienne_url": "https://art.kaptain.stream/film-collections/mystery/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 770676
+  },
+  {
+    "categorie": "Sagas et Collections de Films",
+    "dossier": "Collections Action",
+    "id_dossier": "folder-3B76E2AD",
+    "fichier_source": "COLLECTION/action-cover.png",
+    "fichier_github": "covers/folder-3B76E2AD.png",
+    "ancienne_url": "https://art.kaptain.stream/film-collections/action/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 1094358
+  },
+  {
+    "categorie": "Sagas et Collections de Films",
+    "dossier": "Collections Crime",
+    "id_dossier": "folder-651D1072",
+    "fichier_source": "COLLECTION/POLICIER_FR.jpg",
+    "fichier_github": "covers/folder-651D1072.jpg",
+    "ancienne_url": "https://art.kaptain.stream/film-collections/crime/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 1192223
+  },
+  {
+    "categorie": "Sagas et Collections de Films",
+    "dossier": "Collections Fantasy",
+    "id_dossier": "folder-95E9AAB8",
+    "fichier_source": "COLLECTION/FANTASTIQUE_FR.jpg",
+    "fichier_github": "covers/folder-95E9AAB8.jpg",
+    "ancienne_url": "https://art.kaptain.stream/film-collections/fantasy/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 618775
+  },
+  {
+    "categorie": "Sagas et Collections de Films",
+    "dossier": "Collections Horror",
+    "id_dossier": "folder-EFF8894F",
+    "fichier_source": "COLLECTION/HORREUR_FR.jpg",
+    "fichier_github": "covers/folder-EFF8894F.jpg",
+    "ancienne_url": "https://art.kaptain.stream/film-collections/horror/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 704610
+  },
+  {
+    "categorie": "Sagas et Collections de Films",
+    "dossier": "Collections Comedy",
+    "id_dossier": "folder-1EA77FFE",
+    "fichier_source": "COLLECTION/COMEDIE_FR.jpg",
+    "fichier_github": "covers/folder-1EA77FFE.jpg",
+    "ancienne_url": "https://art.kaptain.stream/film-collections/comedy/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 689711
+  },
+  {
+    "categorie": "Sagas et Collections de Films",
+    "dossier": "Collections Family & Animation",
+    "id_dossier": "folder-B362DBAF",
+    "fichier_source": "COLLECTION/FAMILLE_FR.jpg",
+    "fichier_github": "covers/folder-B362DBAF.jpg",
+    "ancienne_url": "https://art.kaptain.stream/film-collections/family/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 760276
+  },
+  {
+    "categorie": "Sagas et Collections de Films",
+    "dossier": "Collections War",
+    "id_dossier": "folder-C8E270BF",
+    "fichier_source": "COLLECTION/GUERRE_FR.jpg",
+    "fichier_github": "covers/folder-C8E270BF.jpg",
+    "ancienne_url": "https://art.kaptain.stream/film-collections/war/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 742724
+  },
+  {
+    "categorie": "Sagas et Collections de Films",
+    "dossier": "Collections Sci-Fi",
+    "id_dossier": "folder-28BBC0D4",
+    "fichier_source": "COLLECTION/SCIENCE_FICTION_FR.jpg",
+    "fichier_github": "covers/folder-28BBC0D4.jpg",
+    "ancienne_url": "https://art.kaptain.stream/film-collections/sci-fi/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 734291
+  },
+  {
+    "categorie": "Sagas et Collections de Films",
+    "dossier": "Collections Thriller",
+    "id_dossier": "folder-8D387FC0",
+    "fichier_source": "COLLECTION/thriller-cover.png",
+    "fichier_github": "covers/folder-8D387FC0.png",
+    "ancienne_url": "https://art.kaptain.stream/film-collections/thriller/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 570056
+  },
+  {
+    "categorie": "Genres",
+    "dossier": "Aventure",
+    "id_dossier": "folder-CSJVDVSC",
+    "fichier_source": "GENRE/aventure.png",
+    "fichier_github": "covers/folder-CSJVDVSC.png",
+    "ancienne_url": "https://art.kaptain.stream/genres/adventure/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 1875340
+  },
+  {
+    "categorie": "Genres",
+    "dossier": "Historique",
+    "id_dossier": "folder-LCRKWAHO",
+    "fichier_source": "GENRE/histoire.png",
+    "fichier_github": "covers/folder-LCRKWAHO.png",
+    "ancienne_url": "https://art.kaptain.stream/genres/history/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 2144211
+  },
+  {
+    "categorie": "Genres",
+    "dossier": "Fantastique",
+    "id_dossier": "folder-ZYDJZBEV",
+    "fichier_source": "GENRE/fantasy.png",
+    "fichier_github": "covers/folder-ZYDJZBEV.png",
+    "ancienne_url": "https://art.kaptain.stream/genres/fantasy/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 2728413
+  },
+  {
+    "categorie": "Genres",
+    "dossier": "Policier",
+    "id_dossier": "folder-DTEQHREL",
+    "fichier_source": "GENRE/policier .png",
+    "fichier_github": "covers/folder-DTEQHREL.png",
+    "ancienne_url": "https://art.kaptain.stream/genres/crime/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 1945621
+  },
+  {
+    "categorie": "Genres",
+    "dossier": "Action",
+    "id_dossier": "folder-JRWZVYWG",
+    "fichier_source": "GENRE/Action.png",
+    "fichier_github": "covers/folder-JRWZVYWG.png",
+    "ancienne_url": "https://art.kaptain.stream/genres/action/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 2356957
+  },
+  {
+    "categorie": "Genres",
+    "dossier": "Super-héros",
+    "id_dossier": "folder-Y0JJD3MR",
+    "fichier_source": "GENRE/super-heros_proposition_1.png",
+    "fichier_github": "covers/folder-Y0JJD3MR.png",
+    "ancienne_url": "https://art.kaptain.stream/genres/superhero/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 481736
+  },
+  {
+    "categorie": "Genres",
+    "dossier": "Animation",
+    "id_dossier": "folder-K8CIZ3LO",
+    "fichier_source": "GENRE/animation.png",
+    "fichier_github": "covers/folder-K8CIZ3LO.png",
+    "ancienne_url": "https://art.kaptain.stream/genres/animation/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 1553117
+  },
+  {
+    "categorie": "Genres",
+    "dossier": "Documentaire",
+    "id_dossier": "folder-6DUG1MQF",
+    "fichier_source": "GENRE/documentaire .png",
+    "fichier_github": "covers/folder-6DUG1MQF.png",
+    "ancienne_url": "https://art.kaptain.stream/genres/documentary/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 2911730
+  },
+  {
+    "categorie": "Genres",
+    "dossier": "Comédie Romantique",
+    "id_dossier": "folder-d1d8a13d",
+    "fichier_source": "GENRE/comedie romantique .png",
+    "fichier_github": "covers/folder-d1d8a13d.png",
+    "ancienne_url": "https://art.kaptain.stream/genres/romantic-comedy/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 2453987
+  },
+  {
+    "categorie": "Genres",
+    "dossier": "Sport",
+    "id_dossier": "folder-VLDG4GZP",
+    "fichier_source": "GENRE/sport.png",
+    "fichier_github": "covers/folder-VLDG4GZP.png",
+    "ancienne_url": "https://art.kaptain.stream/genres/sports/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 1525956
+  },
+  {
+    "categorie": "Genres",
+    "dossier": "Romance",
+    "id_dossier": "folder-GXG1NG9E",
+    "fichier_source": "GENRE/romance.png",
+    "fichier_github": "covers/folder-GXG1NG9E.png",
+    "ancienne_url": "https://art.kaptain.stream/genres/romance/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 1699960
+  },
+  {
+    "categorie": "Genres",
+    "dossier": "Horreur",
+    "id_dossier": "folder-W7VQ4ZGQ",
+    "fichier_source": "GENRE/horeur .png",
+    "fichier_github": "covers/folder-W7VQ4ZGQ.png",
+    "ancienne_url": "https://art.kaptain.stream/genres/horror/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 1918908
+  },
+  {
+    "categorie": "Genres",
+    "dossier": "Mystère",
+    "id_dossier": "folder-KVW3FYE5",
+    "fichier_source": "GENRE/mystere.png",
+    "fichier_github": "covers/folder-KVW3FYE5.png",
+    "ancienne_url": "https://art.kaptain.stream/genres/mystery/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 1738316
+  },
+  {
+    "categorie": "Genres",
+    "dossier": "Famille",
+    "id_dossier": "folder-FWKG65UR",
+    "fichier_source": "GENRE/famille.png",
+    "fichier_github": "covers/folder-FWKG65UR.png",
+    "ancienne_url": "https://art.kaptain.stream/genres/family/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 3007517
+  },
+  {
+    "categorie": "Genres",
+    "dossier": "Drame",
+    "id_dossier": "folder-8Z2DZVUO",
+    "fichier_source": "GENRE/drame.png",
+    "fichier_github": "covers/folder-8Z2DZVUO.png",
+    "ancienne_url": "https://art.kaptain.stream/genres/drama/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 2103494
+  },
+  {
+    "categorie": "Genres",
+    "dossier": "Arts Martiaux",
+    "id_dossier": "folder-P3VIAWP0",
+    "fichier_source": "GENRE/art martiaux.png",
+    "fichier_github": "covers/folder-P3VIAWP0.png",
+    "ancienne_url": "https://art.kaptain.stream/genres/martial-arts/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 2373395
+  },
+  {
+    "categorie": "Genres",
+    "dossier": "Science-Fiction",
+    "id_dossier": "folder-edbb0941",
+    "fichier_source": "GENRE/science fiction.png",
+    "fichier_github": "covers/folder-edbb0941.png",
+    "ancienne_url": "https://art.kaptain.stream/genres/science-fiction/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 2182791
+  },
+  {
+    "categorie": "Genres",
+    "dossier": "Musique et Comédies Musicales",
+    "id_dossier": "folder-5CTPRQ44",
+    "fichier_source": "GENRE/musique.png",
+    "fichier_github": "covers/folder-5CTPRQ44.png",
+    "ancienne_url": "https://art.kaptain.stream/genres/music-musical/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 2113209
+  },
+  {
+    "categorie": "Genres",
+    "dossier": "Dramas Coréens",
+    "id_dossier": "folder-KDRAMA01",
+    "fichier_source": "GENRE/k-drama.png",
+    "fichier_github": "covers/folder-KDRAMA01.png",
+    "ancienne_url": "https://art.kaptain.stream/genres/k-drama/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 2100634
+  },
+  {
+    "categorie": "Genres",
+    "dossier": "Comédie",
+    "id_dossier": "folder-IWC8T1WM",
+    "fichier_source": "GENRE/comedie.png",
+    "fichier_github": "covers/folder-IWC8T1WM.png",
+    "ancienne_url": "https://art.kaptain.stream/genres/comedy/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 2485627
+  },
+  {
+    "categorie": "Genres",
+    "dossier": "Animation Japonaise",
+    "id_dossier": "folder-AP4ISXTE",
+    "fichier_source": "GENRE/anime.png",
+    "fichier_github": "covers/folder-AP4ISXTE.png",
+    "ancienne_url": "https://art.kaptain.stream/genres/anime/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 2598201
+  },
+  {
+    "categorie": "Ambiances et Emotions",
+    "dossier": "Films Bouleversants",
+    "id_dossier": "folder-SJGV86EH",
+    "fichier_source": "HUMEUR ET AMBIANCE/emouvant et dechirant .png",
+    "fichier_github": "covers/folder-SJGV86EH.png",
+    "ancienne_url": "https://art.kaptain.stream/moods-and-vibes/tearjerkers/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 1909001
+  },
+  {
+    "categorie": "Ambiances et Emotions",
+    "dossier": "À Combustion Lente",
+    "id_dossier": "folder-RSVZ5OM5",
+    "fichier_source": "HUMEUR ET AMBIANCE/intrigue lente .png",
+    "fichier_github": "covers/folder-RSVZ5OM5.png",
+    "ancienne_url": "https://art.kaptain.stream/moods-and-vibes/slow-burn/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 1961476
+  },
+  {
+    "categorie": "Ambiances et Emotions",
+    "dossier": "Épique et Grandiose",
+    "id_dossier": "folder-070BQVHR",
+    "fichier_source": "HUMEUR ET AMBIANCE/epique et grandiose .png",
+    "fichier_github": "covers/folder-070BQVHR.png",
+    "ancienne_url": "https://art.kaptain.stream/moods-and-vibes/epic-and-sweeping/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 2331087
+  },
+  {
+    "categorie": "Ambiances et Emotions",
+    "dossier": "Doux et Réconfortant",
+    "id_dossier": "folder-W52X6SMF",
+    "fichier_source": "HUMEUR ET AMBIANCE/chaleureux et reconfortant .png",
+    "fichier_github": "covers/folder-W52X6SMF.png",
+    "ancienne_url": "https://art.kaptain.stream/moods-and-vibes/cozy-and-comforting/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 1698426
+  },
+  {
+    "categorie": "Ambiances et Emotions",
+    "dossier": "Ambiance Années 80 et 90",
+    "id_dossier": "folder-VRAANHHD",
+    "fichier_source": "HUMEUR ET AMBIANCE/ambiance 80 90.png",
+    "fichier_github": "covers/folder-VRAANHHD.png",
+    "ancienne_url": "https://art.kaptain.stream/moods-and-vibes/80s-and-90s-vibes/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 1831695
+  },
+  {
+    "categorie": "Ambiances et Emotions",
+    "dossier": "Déroutant",
+    "id_dossier": "folder-7TSDBZYI",
+    "fichier_source": "HUMEUR ET AMBIANCE/a couper le souffle.png",
+    "fichier_github": "covers/folder-7TSDBZYI.png",
+    "ancienne_url": "https://art.kaptain.stream/moods-and-vibes/mind-bending/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 2249294
+  },
+  {
+    "categorie": "Ambiances et Emotions",
+    "dossier": "Sombre et Percutant",
+    "id_dossier": "folder-M50463BF",
+    "fichier_source": "HUMEUR ET AMBIANCE/sombre et realiste .png",
+    "fichier_github": "covers/folder-M50463BF.png",
+    "ancienne_url": "https://art.kaptain.stream/moods-and-vibes/dark-and-gritty/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 1856940
+  },
+  {
+    "categorie": "Ambiances et Emotions",
+    "dossier": "Effrayant et Inquiétant",
+    "id_dossier": "folder-79A8YOOM",
+    "fichier_source": "HUMEUR ET AMBIANCE/effrayant et angoissant .png",
+    "fichier_github": "covers/folder-79A8YOOM.png",
+    "ancienne_url": "https://art.kaptain.stream/moods-and-vibes/spooky-and-creepy/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 1510365
+  },
+  {
+    "categorie": "Ambiances et Emotions",
+    "dossier": "Montée d’Adrénaline",
+    "id_dossier": "folder-S21P049B",
+    "fichier_source": "HUMEUR ET AMBIANCE/adrenaline pure.png",
+    "fichier_github": "covers/folder-S21P049B.png",
+    "ancienne_url": "https://art.kaptain.stream/moods-and-vibes/adrenaline-rush/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 1797634
+  },
+  {
+    "categorie": "Ambiances et Emotions",
+    "dossier": "Bonne Humeur",
+    "id_dossier": "folder-7AXTM9QX",
+    "fichier_source": "HUMEUR ET AMBIANCE/feel good.png",
+    "fichier_github": "covers/folder-7AXTM9QX.png",
+    "ancienne_url": "https://art.kaptain.stream/moods-and-vibes/feel-good/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 2077915
+  },
+  {
+    "categorie": "Jeunesse et Famille",
+    "dossier": "Dessins Animés du Samedi Matin et Nostalgie",
+    "id_dossier": "folder-N8CJYFAA",
+    "fichier_source": "JEUNESSE ET FAMILLE/SAMEDI_MATIN_FR.jpg",
+    "fichier_github": "covers/folder-N8CJYFAA.jpg",
+    "ancienne_url": "https://art.kaptain.stream/kids-and-family/saturday-morning-and-nostalgic-cartoons/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 554794
+  },
+  {
+    "categorie": "Jeunesse et Famille",
+    "dossier": "Soirée Cinéma en Famille",
+    "id_dossier": "folder-3DCDF32B",
+    "fichier_source": "JEUNESSE ET FAMILLE/famille_soiree_cinema_remonte_2mm.png",
+    "fichier_github": "covers/folder-3DCDF32B.png",
+    "ancienne_url": "https://art.kaptain.stream/kids-and-family/family-movie-night/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 1092357
+  },
+  {
+    "categorie": "Jeunesse et Famille",
+    "dossier": "Disney Channel et Séries Familiales",
+    "id_dossier": "folder-9EGSPU2W",
+    "fichier_source": "JEUNESSE ET FAMILLE/series_familiales_fr.png",
+    "fichier_github": "covers/folder-9EGSPU2W.png",
+    "ancienne_url": "https://art.kaptain.stream/kids-and-family/disney-channel-and-family-tv-series/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 1919176
+  },
+  {
+    "categorie": "Jeunesse et Famille",
+    "dossier": "Tout-Petits et Jeunes Enfants",
+    "id_dossier": "folder-IK22D8R8",
+    "fichier_source": "JEUNESSE ET FAMILLE/TOUT_PETITS_CORRIGE.jpg",
+    "fichier_github": "covers/folder-IK22D8R8.jpg",
+    "ancienne_url": "https://art.kaptain.stream/kids-and-family/preschool-toddlers-and-little-kids/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 762899
+  },
+  {
+    "categorie": "Jeunesse et Famille",
+    "dossier": "Studios d’Animation à l’Honneur",
+    "id_dossier": "folder-9L1UCO4Y",
+    "fichier_source": "JEUNESSE ET FAMILLE/studios_a_l_honneur_fr.png",
+    "fichier_github": "covers/folder-9L1UCO4Y.png",
+    "ancienne_url": "https://art.kaptain.stream/kids-and-family/animated-studio-spotlight/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 1434054
+  },
+  {
+    "categorie": "Jeunesse et Famille",
+    "dossier": "Découvrir en Famille",
+    "id_dossier": "folder-9RSYJL73",
+    "fichier_source": "JEUNESSE ET FAMILLE/decouvrir_en_famille_trait_decale.png",
+    "fichier_github": "covers/folder-9RSYJL73.png",
+    "ancienne_url": "https://art.kaptain.stream/kids-and-family/discover-family/kaptain/cover.png",
+    "nouvelle_url": "À définir après création du dépôt GitHub",
+    "taille_octets": 2328154
+  }
+]

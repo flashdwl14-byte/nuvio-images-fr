@@ -1,0 +1,5 @@
+1. Créer un dépôt GitHub public (par exemple nuvio-images-fr).
+2. Envoyer uniquement le contenu du dossier covers/ dans un dossier covers/ du dépôt.
+3. Exécuter : python3 generer_json_nuvio.py VOTRE_PSEUDO NOM_DU_DEPOT
+4. Importer le JSON généré dans Nuvio.
+IMPORTANT : les images ne sont pas modifiées. Spotlight reste inchangé. Le JSON original reste inchangé.
